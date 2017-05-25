@@ -1,0 +1,14 @@
+E:\src\UberFrba\UberFrba\bin\Debug\UberFrba.exe.config
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\bin\Debug\UberFrba.exe.config
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\bin\Debug\UberFrba.exe
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\bin\Debug\UberFrba.pdb
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.csprojResolveAssemblyReference.cache
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.Properties.Resources.resources
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.csproj.GenerateResource.Cache
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.exe
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.pdb
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.Form1.resources
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\Aplicacion Desktop\UberFrba\obj\Debug\UberFrba.Abm_Rol.Form1.resources
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\TP-GDD-SQL-MASTERS\UberFrba\bin\Debug\UberFrba.exe.config
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\TP-GDD-SQL-MASTERS\UberFrba\obj\Debug\UberFrba.exe
+D:\facu\sistemas de informacion\gestion de datos\tp\2017\TP-GDD-SQL-MASTERS\UberFrba\obj\Debug\UberFrba.pdb
